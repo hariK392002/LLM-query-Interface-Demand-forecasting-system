@@ -1,0 +1,10 @@
+langchain
+langchain[anthropic]
+flask
+python-dotenv
+requests
+SQLAlchemy
+sqlparse
+google.generativeai
+sqlite3
+re
